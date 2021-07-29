@@ -1,0 +1,6 @@
+.vagrant
+
+*.log
+
+# remove this later on.
+rahul_vagrantfile
